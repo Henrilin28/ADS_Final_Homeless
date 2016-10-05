@@ -11,10 +11,10 @@ def check_data (filename,link):
         for column in df.columns.values:
             f.write(column)
             f.write("\n")
-    
-            if ~np.isreal(df[column]).all() : 
-                f.write("unique_value")   
-                f.write(",".join(df[column].unique()))
+            print (df[column].unique())
+            if df[column].dtype == "object" : 
+                f.write("unique_value: \n")   
+                f.write("/".join(str(val) for val in df[column].unique()))
                 f.write("\n")
             else:
                 f.write("    numerical")
