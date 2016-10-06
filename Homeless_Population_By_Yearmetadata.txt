@@ -1,0 +1,8 @@
+Year
+    numerical
+Area
+unique_value: 
+Surface Area - Manhattan /Surface Area - Bronx /Surface Area - Brooklyn /Surface Area - Queens /Surface Area - Staten Island /Surface Total /Subways /Total Unsheltered Individuals 
+Homeless Estimates
+    numerical
+(32, 3)

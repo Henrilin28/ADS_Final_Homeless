@@ -1,0 +1,41 @@
+PROGRAM TYPE
+unique_valueRunaway & Homeless Youth/Runaaway & Homeless Youth Transitional Independent Living/Runaway & Homeless Youth Sreeet Outreach
+PROGRAM
+unique_valueTransitional Independent Living (TIL)/nan/Drop-In Center/Street Outreach/Crisis Shelter/Transportation
+SITE NAME
+unique_valueGood Shepherd Services/Green Chimneys/Girls Educational & Mentoring Services, Inc./Inwood House/SCO Family of Services/SCO Family of Services IV/Safe Space NYC, Inc/Rachel's Place/Seamans Society for Children and Families /La Asociacion Benefica Cultural Father Billini/Safe Horizon, Inc/Greenwich Village Youth Council/Safe Horizon/Covenant House New York / Under 21/Bronx Community Pride Center, Inc./Ali Forney Center/SCO Drop In Center
+BOROUGH / COMMUNITY
+unique_valueManhattan/Brooklyn/Queens/Staten Island/Bronx
+AGENCY
+unique_valueGood Shepherd Services/Green Chimneys/Girls Educational & Mentoring Services, Inc./Inwood house/SCO Family of Services/Safe Space NYC, Inc/Rachel's Place/Seamans Society for Children and Families/La Asociacion Benefica Cultural Father Billini/Safe Horizon, Inc/Greenwich Village Youth Council/Covenant House New York/Bronx Community Pride Center, Inc./Ali Forney Center
+Contact Number
+unique_value646.485.6900/212.491.5911 ext. 13/212.926.8089 ext. 25/212.861.4325/718.827.8465/718.782.0198/718.326.5931/718.217.5613/718.526.3000/718.253.5364/718.447.7740 ext. 248/718.651.8427/212.695.2220 or 800.708.6600/646.209.1264/212.268.3943/212.613.0300 ext. 0532/718.292.4368/212.206.0574/718.384.7083/212.613.0300 ext. 0531/212.695.2220/718.526.2400
+Grade Level / Age Group 
+    numerical
+Location 1
+unique_valuenan/50 Bay Street
+Staten Island, NEW YORK 10301
+(40.63947644558331, -74.07331529510297)/104 11 37th Avenue
+Queens, NEW YORK 11368
+(40.749678220373596, -73.85304068857687)/209 125th Street
+Manhattan, NEW YORK 10027
+(40.809154206198805, -73.94868347483566)/2273 3rd Avenue
+Manhattan, NEW YORK 10037
+(40.81329776108288, -73.93728252556804)/165 131st Street
+Manhattan, NEW YORK 10027
+(40.81234377905435, -73.94449601797605)/427 52nd Street
+Manhattan, NEW YORK 10019
+(40.76527589061238, -73.9892468022828)/448 149th Street
+Bronx, NEW YORK 10455
+(40.815410316439, -73.91617313618086)/216 23rd Street
+Brooklyn, NEW YORK 11232
+(40.66061430242008, -73.99529162858046)/89 10th Street
+Brooklyn, NEW YORK 11221
+(40.67214090834696, -73.99418392858094)/460 41st Street
+Manhattan, NEW YORK 10036
+(40.75869416595527, -73.99534286163828)/89 31
+Queens, NEW YORK 11432
+(40.71311535449007, -73.79282099978928)/241 Taffee Place
+Brooklyn, NEW YORK 11205
+(40.69159578320248, -73.95963928881649)
+(23, 8)
