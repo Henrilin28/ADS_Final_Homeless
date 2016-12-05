@@ -14,6 +14,7 @@ def read_date (filelist):
                  file_link.append(a)
 
     return file_link
+
 def check_data (filename,link):
 
     df = pd.read_csv(link)
@@ -31,6 +32,7 @@ def check_data (filename,link):
                 f.write("\n")
         f.write(str(df.shape))
     print ("{} metadata complete".format(filename))
+
 if __name__ == '__main__':
 
     index = 0 
